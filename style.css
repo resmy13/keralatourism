@@ -61,7 +61,7 @@ div.carousel-inner{
 }
 
 .row2{
-    background-image:url(/IMAGES/aboutfinal.jpeg);
+    background-image:url('/IMAGES/aboutfinal.jpeg');
     background-size: cover;
     color:black;
     text-align: left;
