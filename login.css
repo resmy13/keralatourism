@@ -3,7 +3,7 @@
     padding: 0;
 }
 .body{
-    background-image:url('/IMAGES/loginpage.jpeg');
+    background-image:url('./IMAGES/loginpage.jpeg');
     background-size: cover;
 }
 .login{padding-top: 5%;
