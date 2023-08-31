@@ -1,0 +1,22 @@
+.login{
+    padding-left: 20%;
+    padding-right: 20%;
+    
+    
+
+    text-align: center;
+    color: white;
+    background-color: blue;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.backbtn{display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px; 
+    }
+.form{
+    width: 500px;
+}

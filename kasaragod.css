@@ -1,0 +1,33 @@
+.heading{
+    height: 10px;
+    background-color: aquamarine;
+}
+.district{
+    background-color: #47a747;
+    color:white;
+    padding-left:2%;
+}
+.district h1{
+    text-align: center;
+    font-style: normal;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.dimage {
+
+margin-left: 39%;
+}
+.card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+    padding-bottom: 2%;
+}
+.card-title{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.backbtn{display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+    }

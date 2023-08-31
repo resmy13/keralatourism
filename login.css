@@ -1,0 +1,18 @@
+.body{
+    background-image:url('/IMAGES/loginpage.jpeg');
+    background-size: cover;
+}
+.login{padding-top: 5%;
+    padding-left: 28%;
+    padding-right: 28%;
+    padding-bottom: 10%;
+}
+.mb-3 h1{
+    text-align: center;
+    font-family: 'quicksand';
+}
+.backbtn{display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px; 
+    }
