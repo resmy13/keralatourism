@@ -13,6 +13,7 @@
 }
 .district h1{
     text-align: center;
+    justify-content:center;
     font-style: normal;
     font-family:'Courier New', Courier, monospace;
 
