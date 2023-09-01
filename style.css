@@ -11,7 +11,9 @@
     height: 25%;
     width: 100%;
 }
-
+.nav-item{
+    color:white;
+}
 
 .col-12{
     margin-bottom: 10%;
