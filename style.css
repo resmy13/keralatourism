@@ -27,7 +27,12 @@
     margin-bottom: 10%;
 }
 
-    
+.row2{  width:100%;
+    padding:10px;
+    font-size:1rem;}
+.row3{ width:100%;
+    padding:10px;
+    font-size:1rem;}
    
     
 #carouselExampleAutoplaying{
