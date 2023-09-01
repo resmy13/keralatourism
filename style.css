@@ -8,6 +8,11 @@
     margin-bottom: 50%;
     
 }
+.cardspart{
+    width:100%;
+    padding:10px;
+    font-size:1rem;
+}
 #carouselExampleAutoplaying{
     padding-bottom: 75%;
     height: 25%;
